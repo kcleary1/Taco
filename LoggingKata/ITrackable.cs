@@ -1,4 +1,7 @@
-﻿namespace LoggingKata
+﻿using GeoCoordinatePortable;
+
+namespace LoggingKata
+
 {
     public interface ITrackable
     {
